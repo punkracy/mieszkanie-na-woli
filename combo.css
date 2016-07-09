@@ -32,6 +32,10 @@ margin-top: -5px;
 transition: all 0.3s ease-in-out;
 }
 
+.white-panel p {
+  color: #444;
+}
+
 .btn {
   display: inline-block;
   padding: 6px 12px;
